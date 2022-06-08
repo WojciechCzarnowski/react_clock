@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,YAAa,CACb,qBAAsB,CACtB,aAAc,CACd,WAAY,CACZ,YAAa,CACb,oBAAqB","file":"main.a0364e4b.chunk.css","sourcesContent":[".App {\n  display: flex;\n  flex-direction: column;\n  margin: 0 auto;\n  width: 100px;\n  height: 100px;\n  background-color: red;\n}\n"]}
